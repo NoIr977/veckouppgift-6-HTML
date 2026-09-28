@@ -1,0 +1,46 @@
+Veckouppgift 6
+
+1a Vilka sorters HTML-element kan du se på w3schools-sidan?
+
+<h1> / <h2> - rubriker och underrubriker
+<button> - knappar
+<a> - länkar
+<p> - text / stycken
+
+
+1b Vilka sorters element finns det på wikipedia-sidan om Thutmose II?
+
+<h1> - rubrik
+<h2> - underrubrik
+<p> - text
+<hr> - horisontell linje
+<img> - bild
+<a> - länk
+<ul> - punktlista
+<li> - ett element i listan
+
+
+1c Koden för webbsidan har råkat blandas.
+
+Uppgiften genomförd.
+
+
+1d Hitta så många fel som möjligt i följande HTML.
+
+Korrigerad version:
+
+<main>
+    <section>
+        <h1>Find the error</h1>
+        <p>This is an example of an HTML file. It contains several errors.</p>
+        <img src="image.jpg" alt="Let's show a nice image.">
+        <p>Can you find them all?</p>
+    </section>
+</main>
+
+Fel som rättades:
+- Saknad stängning av <h1>
+- Saknad stängning av första <p>
+- Felaktigt skriven <img>-tagg
+- Saknad </section>
+- Felaktig / extra </p>
