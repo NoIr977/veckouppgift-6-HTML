@@ -1,0 +1,19 @@
+.library {
+    background-color: lightblue;
+}
+
+.recipe {
+    background-color: beige;
+}
+
+.presentation {
+    background-color: rgb(247, 215, 241);
+}
+
+hr {
+    border: 0.5px solid black;
+}
+
+img {
+    width: 300px;
+}
